@@ -1,0 +1,1 @@
+ubuntu kurulumu tamamlandı.
